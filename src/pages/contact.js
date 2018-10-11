@@ -21,7 +21,6 @@ const Contact = ({ data }) => {
 
       <Container>
         <PageTitle>Contact</PageTitle>
-        <h1>I know what you want</h1>
         <ContactForm />
       </Container>
     </Layout>
