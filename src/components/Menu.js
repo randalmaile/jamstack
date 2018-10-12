@@ -61,7 +61,7 @@ const Menu = () => {
           </li>
           <li>
             <Link to="/contact/" activeStyle={activeLinkStyle}>
-              Contact
+              Contact us
             </Link>
           </li> 
           <li>
